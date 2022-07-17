@@ -7,6 +7,7 @@ function App() {
     return (
         <div>
             <HelloWorld name="Leigh" />
+            <p>Git test</p>
         </div>
     );
 }
